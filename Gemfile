@@ -7,7 +7,7 @@ gem "rails", "~> 8.0.3"
 gem "pg", "~> 1.1"
 
 # React on Rails and Shakapacker for webpack integration
-gem "shakapacker", "9.0.0.beta.3"
+gem "shakapacker", "9.0.0"
 gem "react_on_rails", "16.1.1"
 
 # Remove propshaft since we'll use shakapacker
