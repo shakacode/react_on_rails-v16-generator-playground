@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "rails", "~> 8.0.3"
 
 # Use postgresql as the database for Active Record
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.6"
 
 # React on Rails and Shakapacker for webpack integration
 gem "shakapacker", "9.0.0.beta.3"
